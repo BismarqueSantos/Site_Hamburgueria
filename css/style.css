@@ -1,0 +1,44 @@
+
+.cardapio img{
+	width: 100%;
+	height: 300px;
+	border-radius: 25px;
+	transition-duration: 0.5s;
+}
+.cardapio img:hover{
+	width: 105%;
+	height: 320px;
+	border-radius: 25px;
+}
+.jumbotron{
+	background: transparent !important;
+}
+.jumbotron img {
+	width: 100%;
+	height: auto;
+}
+.cardapio{
+	color: yellow;
+	margin-bottom: 30px;
+	padding: 30px;
+}
+.cardapio h4{
+	margin-top: 30px;
+}
+label{
+	color: #ffffff;
+}
+.resul{
+	margin-bottom: 30px;
+}
+.form-group .form-control{
+	margin: 10px 0;
+}
+h1{
+	color: #ffffff;
+	text-align: center;
+}
+#calcular h4{
+	color: yellow;
+	margin: 18px 0;
+}
